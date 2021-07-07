@@ -1,0 +1,62 @@
+body{
+    margin: 0px;;
+}
+.header{
+    text-align: center;
+     padding: 1rem;
+     background-color: goldenrod;
+}
+
+textarea {
+    width: 80%;
+    height: 10vh;
+    display: block;
+    margin-bottom: 2rem;
+    padding: 1rem;
+    max-width: 500px;
+    margin: auto;
+    padding: 1rem;
+    border: 2px solid;
+}
+#output {
+    border: 1px solid ;
+    height: 10vh;
+    width: 80%;
+    margin: 1rem;
+    padding: 1rem;
+}
+#btn-translate{
+    padding: 2rem;
+    text-align: center;
+    max-width: 800px;
+    margin: auto;
+}
+.button{
+    padding: 2rem 2rem;
+    border-style: none;
+    background-color: goldenrod;
+    border-radius: 0.5rem;
+}
+.textarea{
+    margin: 2rem 0rem 1rem 1rem;
+}
+#output{
+    width: 80%;
+    height: 10vh;
+    display: block;
+    margin-bottom: 2rem;
+    padding: 1rem;
+    max-width: 500px;
+    margin: auto;
+    padding: 1rem;
+    border: 2px solid;
+    
+}
+.footer{
+    text-align: center;
+    padding: 2rem;
+    background-color: goldenrod;
+    margin-top: 2rem;
+}
+
+
